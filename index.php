@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations!</h2>
-                <h2>O Augusto está aqui!</h2>
+                <img src="Imagem1.jpg" alt="Academia de Tecnologia">
                 <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
             </div>
